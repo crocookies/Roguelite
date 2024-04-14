@@ -18,6 +18,10 @@
 
 확인 : Enter
 
+# 게임 다운로드
+
+[게임 다운로드](https://drive.google.com/file/d/12wi5xc26fk1xUCcRnjbKu0HzktE0keet/view?usp=sharing)
+
 # 주의사항
 
 캐릭터 사망 후 마을로 귀환 시 자동 저장 됩니다.
