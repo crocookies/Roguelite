@@ -5,11 +5,17 @@
 # 조작법
 
 이동 : A, D
+
 점프 : Space
+
 공격 : Left Mouse
+
 강공격 : Left Mouse Hold
+
 가드 : Right Mouse
+
 일시정지 : ESC
+
 확인 : Enter
 
 # 주의사항
